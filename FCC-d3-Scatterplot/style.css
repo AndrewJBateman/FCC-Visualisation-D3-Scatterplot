@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: blue;
+}
+#tooltip {
+  position: absolute;
+  background-color: pink;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 3px;
+  font-size: 14px;
+  max-width: 285px;
+  pointer-events: none;
+}
+
+.legend {
+  border-radius: 2px;
+  height: 15px;
+  width: 15px;
+  border: 2px solid grey;
+  stroke: grey;
+}
+circle {
+  stroke: grey;
+  stroke-width: 2px;
+}

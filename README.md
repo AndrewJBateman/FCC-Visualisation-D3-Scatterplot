@@ -2,8 +2,12 @@
 
 * D3.js used to visualise json data in a HTML scatterplot graph
 * This was a [FreeCodeCamp Data Visualisation Project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) for Front End Certification that is still in the FCC curriculum with the same json data file
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/FCC-Visualisation-D3-Scatterplot?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/FCC-Visualisation-D3-Scatterplot?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/FCC-Visualisation-D3-Scatterplot?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/FCC-Visualisation-D3-Scatterplot?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -17,6 +21,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -31,11 +36,11 @@
 
 ## :signal_strength: Technologies
 
-* [D3.js v5](https://d3js.org/) Data Driven Documents (D3) JavaScript library for manipulating documents based on data
+* [D3.js v5](https://d3js.org/) Data Driven Documents (D3) JavaScript library for manipulating documents based on data. Note changing to v6 or v7 means tooltip mouseover does not work and 2 tests fail.
 
 ## :floppy_disk: Setup
 
-* Open  'index.html' in terminal to run program
+* Open 'index.html' in terminal to run program
 
 ## :computer: Code Examples
 
@@ -69,6 +74,10 @@ d3.json(
 
 * [FreeCodeCamp Data Visualisation Project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com

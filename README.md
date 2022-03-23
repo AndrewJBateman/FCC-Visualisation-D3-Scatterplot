@@ -1,7 +1,7 @@
 # :zap: FCC Visualisation D3 Scatterplot
 
-* D3.js used to visualise json data in a HTML scatterplot graph
-* This was a [FreeCodeCamp Data Visualisation Project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) for Front End Certification that is still in the FCC curriculum with the same json data file
+* Data Driven Documents in Javascript (D3.js) library v5 used to visualise JSON data in a HTML scatterplot graph
+* This was a [FreeCodeCamp Data Visualisation Project](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) for Front End Certification that is still in the FCC curriculum with the same JSON data file
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/FCC-Visualisation-D3-Scatterplot?style=plastic)
@@ -26,7 +26,7 @@
 
 ## :books: General info
 
-* D3.js binds the [FCC json graph data](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json) to the Document Object Model
+* D3.js binds the [FCC JSON graph data](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json) to the Document Object Model
 * Minified D3 is loaded directly from d3js.org using: `<script src="https://d3js.org/d3.v5.min.js"></script>`
 
 ## :camera: Screenshots
@@ -36,7 +36,7 @@
 
 ## :signal_strength: Technologies
 
-* [D3.js v5](https://d3js.org/) Data Driven Documents (D3) JavaScript library for manipulating documents based on data. Note changing to v6 or v7 means tooltip mouseover does not work and 2 tests fail.
+* [D3.js v5](https://d3js.org/) Data Driven Documents (D3) JavaScript library for manipulating documents based on data. Note changing to D3 v6 or v7 means tooltip mouseover and yaxis do not work and some tests fail.
 
 ## :floppy_disk: Setup
 
@@ -68,7 +68,7 @@ d3.json(
 ## :clipboard: Status & To-Do List
 
 * Status: Working
-* To-Do: nothing
+* To-Do: Nothing
 
 ## :clap: Inspiration
 
@@ -76,7 +76,7 @@ d3.json(
 
 ## :file_folder: License
 
-* This project is licensed under the terms of the MIT license.
+* N/A
 
 ## :envelope: Contact
 
